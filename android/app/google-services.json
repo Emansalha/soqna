@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "578374273135",
+    "project_id": "news-1f3ba",
+    "storage_bucket": "news-1f3ba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578374273135:android:4ac9d83838d17139f1a59a",
+        "android_client_info": {
+          "package_name": "com.example.gazanew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVew9D99yJnUL8WBe6Hc0R8299P6lHXwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578374273135:android:903a5d4dd4a0cfbaf1a59a",
+        "android_client_info": {
+          "package_name": "com.example.new2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVew9D99yJnUL8WBe6Hc0R8299P6lHXwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578374273135:android:fd08d186a09fd439f1a59a",
+        "android_client_info": {
+          "package_name": "com.example.souqna_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVew9D99yJnUL8WBe6Hc0R8299P6lHXwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
